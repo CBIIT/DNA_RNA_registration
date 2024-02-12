@@ -19,3 +19,9 @@ You can install these packages using pip:
 ```bash
 pip install pandas scikit-image scipy matplotlib
 
+### Cloning the Repository
+
+To use this code, you can clone the repository from GitHub:
+
+```bash
+git clone https://github.com/CBIIT/DNA_RNA_registration.git
