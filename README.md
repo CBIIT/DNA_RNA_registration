@@ -44,7 +44,7 @@ Replace placeholders with actual paths:
 python channel_registration.py V:\Users_Data\Faisal\from_adib\registered_datasets\new_test\raw\230225-EXP020623-Plate1A-2nd_20230225_175023\AssayPlate_PerkinElmer_CellCarrier-384 V:\Users_Data\Faisal\from_adib\registered_datasets\new_test\raw\230211-EXP020623-Plate1A-1st_20230211_202736\AssayPlate_PerkinElmer_CellCarrier-384 V:\Users_Data\Faisal\from_adib\registered_datasets\new_test\output
 
 
-**Note: This code assumes that DAPI images in both datasets are saved to channel 1, RNA saved as channel 4, and DNA spots as channels 2 and 3. So, please follow this routine for your imaging.
-**
+
+- **Note: This code assumes that DAPI images in both datasets are saved to channel 1, RNA saved as channel 4, and DNA spots as channels 2 and 3. So, please follow this routine for your imaging.**
 
 
