@@ -1,3 +1,6 @@
+![Registration Schematic](registration_schematic.png)
+
+
 ## DNA-RNA Registration Code
 
 This README details the installation, usage, and instructions for the DNA-RNA registration code developed at NCI/NIH. This code enables the registration of RNA and DNA datasets acquired through CellVoyager microscopes. It begins with finding the translation transform between DAPI channels and applying the same transform to the DNA channels in the DNA dataset. Raw RNA dataset plus registered DNA spot channels will be saved to the output folder. At last, the RNA dataset metadata (.mlf file) is updated to include newly added registered DNA spot channels.
